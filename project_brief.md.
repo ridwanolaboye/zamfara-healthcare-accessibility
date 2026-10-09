@@ -1,0 +1,56 @@
+# Project Brief: Healthcare Accessibility in Zamfara State, Nigeria
+
+## Project Title
+
+Assessing Healthcare Accessibility Across Zamfara State Using 5 km Buffer Analysis.
+
+## Spatial Question
+
+Which communities across Zamfara State are within 5 km of a mapped health facility, and which communities are outside the 5 km coverage zones and may be underserved?
+
+## Study Area
+
+Zamfara State, northwestern Nigeria, covering all 14 Local Government Areas (LGAs).
+
+## Project Aim
+
+To assess the proximity of communities to mapped health facilities and identify potentially underserved areas using ArcGIS Pro.
+
+## Objectives
+
+1. Map health facilities and communities across Zamfara State.
+2. Create 5 km buffers around health facilities.
+3. Identify communities within and outside the buffer zones.
+4. Summarise healthcare coverage by LGA.
+5. Produce a final map showing health facilities, buffer zones, and potentially underserved communities.
+
+## Datasets and Sources
+
+1. **Administrative boundaries:** 
+https://data.grid3.org/datasets/GRID3::grid3-nga-operational-lga-boundaries/about
+
+2. **Health facility locations:** Nigeria Health Facility 
+   https://data.grid3.org/datasets/827e3638dc204f4b9ddbbd19b00954d6/about
+
+
+
+## Methodology
+
+The datasets will be collected and prepared in ArcGIS Pro. The data will be checked and projected into a suitable coordinate reference system for distance analysis. The health facility locations will be used to generate 5 km buffers. Spatial analysis will then identify communities within and outside the combined buffer zones. The results will be summarised for each LGA.
+
+## Expected Outputs
+
+1. A map showing health facilities and 5 km buffer zones.
+2. A classification of communities covered and potentially underserved.
+3. A summary table comparing coverage across the 14 LGAs.
+4. A final map for presentation and reporting.
+
+## Limitations
+
+The 5 km buffer represents straight line distance, not actual road distance or travel time. Communities outside the buffer zones will be classified as potentially underserved based on the selected distance threshold. Results will depend on the accuracy and completeness of the available datasets.
+
+## Software
+
+ArcGIS Pro.
+
+

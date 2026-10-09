@@ -60,7 +60,3 @@ The 5 km buffer measures straight line distance rather than actual road distance
 ArcGIS Pro
 
 ## 10. Project Status
-
-Project planning and data collection.
-
-The spatial analysis and final results will be added after processing the datasets in ArcGIS Pro.

@@ -58,5 +58,3 @@ The 5 km buffer measures straight line distance rather than actual road distance
 ## 9. Software
 
 ArcGIS Pro
-
-## 10. Project Status
